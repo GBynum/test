@@ -17,14 +17,14 @@ public class SomeClass {
 		this.bool = bool;
 	}
 
-	private String string;
+	private Double string;
 	private Integer integer;
 
-	public String getString() {
+	public Double getString() {
 		return string;
 	}
 
-	public void setString(String string) {
+	public void setString(Double string) {
 		this.string = string;
 	}
 
